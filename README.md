@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [dingxiang](https://www.dingxiang-inc.com/)
+- 🔭 I’m currently working on [dingxiang-inc](https://www.dingxiang-inc.com/)
 
 <!--
 **zenxds/zenxds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
